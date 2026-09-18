@@ -1,2 +1,5 @@
 # Ada-SPARK-Buddy-Memory-Allocation
-Bounded SPARK buddy memory allocation stub
+
+A bounded SPARK buddy allocation stub with bounded block metadata.
+
+Run \ for executable tests and \ for GNATprove level 2 with cvc5.
